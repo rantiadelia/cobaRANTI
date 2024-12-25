@@ -1,0 +1,3 @@
+{"_id":{"$oid":"67645a91a28b886ba34eeb93"},"nama":"Ranti Adelia","username":"ranti_admin","password":"admin123","jabatan":"Pustakawan Utama","hak_akses":"Admin"}
+{"_id":{"$oid":"67645a91a28b886ba34eeb94"},"nama":"Puspita","username":"puspita_admin","password":"admin456","jabatan":"Pustakawan Tambahan","hak_akses":"Admin"}
+{"_id":{"$oid":"67645a91a28b886ba34eeb95"},"nama":"Ardio","username":"ardio_admin","password":"admin789","jabatan":"staff","hak_akses":"Admin"}
